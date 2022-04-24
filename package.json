@@ -16,7 +16,7 @@
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/caroline-church/node-red-contrib-fabric"
+        "url": "https://github.com/Alaa-Hany/node-red-contrib-fabric-nodes"
     },
     "keywords": [
         "node-red",
