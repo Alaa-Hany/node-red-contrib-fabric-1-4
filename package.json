@@ -1,5 +1,5 @@
 {
-    "name": "node-red-contrib-fabric",
+    "name": "node-red-contrib-fabric-nodes",
     "version": "1.0.0",
     "description": "Hyperledger Fabric nodes for node-red",
     "dependencies": {
