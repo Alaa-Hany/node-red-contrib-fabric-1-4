@@ -3,8 +3,8 @@
     "version": "0.0.3",
     "description": "Hyperledger Fabric nodes for node-red",
     "dependencies": {
-        "fabric-network": "1.4.0",
-        "fabric-client": "1.4.0"
+        "fabric-network": "~1.4.0",
+        "fabric-client": "~1.4.0"
     },
     "devDependencies": {
         "eslint": "^5.14.1",
